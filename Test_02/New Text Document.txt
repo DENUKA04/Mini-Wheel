@@ -1,1 +1,0 @@
-Define the 12C pins in FW.and enable the internal pull-up resistors.
