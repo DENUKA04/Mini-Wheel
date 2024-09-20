@@ -1,0 +1,6 @@
+Instructions:
+
+Wiring: Connect the WT901 to the ESP32 Mini using I2C (SDA to GPIO 21, SCL to GPIO 22 by default).
+Install Libraries: Ensure that the Wire library is included.
+Adjust I2C Address: Make sure the I2C address (WT901_ADDRESS) is correct for your setup.
+Upload Code: Upload the code to your ESP32 Mini and open the Serial Monitor to see the gyroscope values.
